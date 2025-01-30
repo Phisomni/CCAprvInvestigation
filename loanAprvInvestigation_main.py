@@ -13,9 +13,9 @@ consulted https://www.statology.org for running a point biserial test
 '''
 
 #complete data
-DATA = r"C:\Users\arand\Desktop\NEU\ds2001\data_files\clean_dataset.csv"
+DATA = r"clean_dataset.csv"
 #quantitative data with approvals
-DATA_ABRV = r"C:\Users\arand\Desktop\NEU\ds2001\data_files\cleaned_dataset(abrv).csv"
+DATA_ABRV = r"cleaned_dataset(abrv).csv"
 
 
 def get_qual_data(df, col1, col2):
