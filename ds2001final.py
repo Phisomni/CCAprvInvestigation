@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Aran Dharma, Jiaming Liu
-DS2001 Final Project
-Dec 1, 2023
-"""
 #imports
 import pandas as pd
 import seaborn as sns
